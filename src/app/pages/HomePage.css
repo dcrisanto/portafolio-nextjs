@@ -1,10 +1,25 @@
 .project-title {
   font-size: var(--lg);
+  color: var(--text-color);
 }
 
 .project-container {
   display: flex;
   flex-direction: column;
+  gap: 10px;
+}
+
+.note-container {
+  margin-top: 10px;
+}
+
+.note-container h2 {
+  color: var(--text-color);
+}
+
+.note-container p {
+  font-size: var(--sm);
+  color: var(--text-color);
 }
 
 .project1-container,

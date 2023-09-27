@@ -18,6 +18,13 @@ export default function HomePage() {
     <>
       <h1 className="project-title">Proyectos</h1>
       <div className="project-container">
+        <div className="note-container">
+          <h2>Nota:</h2>
+          <p>
+            He realizado pequeños proyectos para mostrar en que tecnologías he
+            trabajado, a continuación el detalle de ellas.
+          </p>
+        </div>
         <div className="project1-container">
           <div className="project-data">
             <h2 className="project-rol">Rol: FrontEnd Developer</h2>

@@ -26,10 +26,12 @@ header {
 .presentation-container h1 {
   font-size: var(--lg);
   padding: 10px 0 5px;
+  color: var(--text-color);
 }
 
 .presentation-container h2 {
   padding-bottom: 20px;
+  color: var(--text-color);
 }
 
 .container-my-image .my-image {
